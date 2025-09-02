@@ -1,0 +1,69 @@
+/*div{
+    background-color: greenyellow;
+    height: 300px;
+}
+
+div:hover {
+    animation-name: ghingalala;
+    animation-duration: 5s;
+    animation-delay: 2s;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+
+}
+
+@keyframes ghingalala {
+    0%{
+        background-color: mediumaquamarine;
+        width: 400px;
+    }
+    25%{
+        background-color: rgb(2, 38, 71);
+        width: 100vw;
+    }
+    50%{
+        background-color:pink;
+        width: 500px;
+        border-radius: 50%;
+    }
+    75%{
+        background-color: plum;
+        width: 200px;
+    }
+    100%{
+        background-color: cornflowerblue;
+        width: 100px;
+    }*/
+    
+/*div {
+    background-color: blueviolet;
+    border-radius: 100%;
+    height:100px;
+    width: 100px;
+    margin: 10px auto;
+    animation-name: bounce;
+    animation-duration: 900ms;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes bounce {
+    0%{
+        transform: translateY(0px)
+    }
+    100%{
+        transform: translateY(90vh);
+    }
+    
+}*/
+/*#frame {
+    height: 600px ;
+    background-color:rgb(27, 26, 26) ;
+    display:flex  ;
+    flex-direction: column;
+    justify-content:flex-end;
+}
+#road{
+    height:120px;
+    background-color:black;
+}*/
